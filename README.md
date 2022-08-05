@@ -63,16 +63,20 @@
 #### Class 63 | Getting a job as a software engineer
 #### Class 64 | Fullstack Web Dev
 
-### Web Dev Bootcamp
-#### Class 1 | Back-end crash
-#### Class 2 | Back-end crash
-#### Class 3 | Back-end crash
-#### Class 4 | Back-end crash
-#### Class 5 | Back-end crash
-#### Class 6 | Back-end crash
-#### Class 7 | Back-end crash
-#### Class 8 | Back-end crash
-#### Class 9 | Back-end crash
-#### Class 10 | Back-end crash
-#### Class 11 | Back-end crash
 
+
+### Web Dev Bootcamp
+#### Class 1  | Web Dev
+#### Class 2  | Web Dev
+#### Class 3  | CSS
+#### Class 4  | Web Dev
+#### Class 5  | Back-end crash
+#### Class 6  | Responsive CSS
+#### Class 7  | Flexbox and JS
+#### Class 8  | JS
+#### Class 9  | JS
+#### Class 10 | JS
+#### Class 11 | JS animations
+#### Class 12 | JS
+#### Class 13 | JS arrays
+#### Class 14 | JS objects
