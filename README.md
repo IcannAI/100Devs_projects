@@ -43,8 +43,35 @@ The sources define the technical and professional workflow for an aspiring devel
 
 ---
 
-#### Class 02 | More about HTML
+## Class 02 | More about HTML
+This session focuses on the structural layer of the web, emphasizing the relationship between clients and servers and the correct use of HTML tags. 
+
+### Workflow:
+- Active Engagement: Rather than passive re-watching, students are encouraged to engage with the material once and then apply it immediately. 
+- Coding by Hand: Avoid shortcuts and plugins initially; type out all tags to build muscle memory and a deeper understanding of syntax. 
+- Study Method: Use "Anki" (flashcards) for active recall, specifically focusing on short questions with detailed answers. 
+
+### Tools:
+- HTML: Used to power the structure and content of a webpage. 
+- MDN (Mozilla Developer Network): A primary reference for looking up documentation and tag usage. 
+- **Anki: A tool for space repetition to reinforce learning.**
+
+### Guidelines:
+- Separation of Concerns: Keep content (HTML), styling (CSS), and behavior (JavaScript) separate. 
+- Semantic HTML: Use tags like <strong> and <em> instead of just bolding or italics because they provide meaning to screen readers and search engines. 
+- **Accessibility: Code should be readable by general users, assistive devices, and search engines alike.**
+
+### Key Takeaways:
+- Master the syntax (spelling, grammar, and punctuation of code) to avoid common errors. 
+- Understand the client-server model as the fundamental communication path of the web.
+
+---
 #### Class 03 | CSS
+
+
+
+---
+
 #### Class 04 | CSS layout
 #### Class 05 | More CSS layout
 #### Class 06 | Responsive CSS
