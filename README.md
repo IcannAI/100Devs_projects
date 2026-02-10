@@ -2,6 +2,57 @@
 
 ### Software Engineering Bootcamp
 #### Class 01 | HTML basics
+The following notes and summary are drawn from the transcript of the first class of the **#100Devs software engineering bootcamp**, which focuses on transitioning into a career in web development through structured learning and community support.
+
+### **Summary**
+The instructor emphasizes that while software engineering is a high-paying and happy career that does not require a degree, it is exceptionally difficult and requires a specific mindset to survive the **"Trough of Sorrow"**—the period where many learners give up. The class covers the basic mechanics of the internet (request/response cycles), the essential roles of HTML, CSS, and JavaScript, and scientifically proven study methods like **Active Recall** and **Spaced Repetition**.
+
+---
+
+### **The Web Development Workflow**
+The sources define the technical and professional workflow for an aspiring developer as follows:
+
+*   **The Technical Request-Response Cycle:**
+    *   **The Client:** A device (phone, laptop) running a browser makes a request for information.
+    *   **DNS (Domain Name Server):** Acts as a "phone book" that translates a URL (like facebook.com) into an IP address to locate the correct server.
+    *   **The Server:** A computer that "serves" the requested files (HTML, CSS, and JavaScript) back to the client.
+    *   **Rendering:** The browser opens these files to display the content (HTML), apply styling (CSS), and enable interaction (JavaScript).
+*   **The Career Transition Workflow:**
+    *   **Phase 1: Learn the basics** of front-end and back-end development.
+    *   **Phase 2: Build** a large-scale passion project and freelance for real clients.
+    *   **Phase 3: Network** aggressively while transitioning into "interview mode".
+
+---
+
+### **Essential Tools**
+*   **Text Editors:** Recommended tools for writing code include **Atom**, **VS Code**, or **Sublime Text**.
+*   **Browsers:** **Chrome** or **Firefox** are the preferred environments for testing and rendering web pages.
+*   **Community & Materials:** **Discord** is used for hosting all starter code, slides, and peer support. **Twitter** is utilized for attendance "check-ins" and as a primary tool for professional networking.
+*   **Learning & Retention:** 
+    *   **Anki:** A flashcard app that uses an algorithm to automate **Spaced Repetition** and flatten the "forgetting curve".
+    *   **Coursera:** Students are assigned the "Learning How to Learn" course to master study techniques.
+*   **Version Control:** **GitHub** is the future destination for storing code and submitting homework via pull requests.
+
+---
+
+### **Guidelines**
+*   **Separation of Concerns:** This is the "Golden Rule." Content must stay in HTML, styling in CSS, and behavior in JavaScript. Never mix them.
+*   **Semantic HTML:** Choose HTML tags based on their **meaning and importance** (e.g., using an `<h1>` for the most important heading), not based on how they look in the browser.
+*   **Networking Strategy:** The sources state that **"clicking apply is like lighting your resume on fire."** Instead, students must network their way into positions through "coffee chats" and referrals.
+*   **Effective Study Habits:** Stop highlighting and rereading. Use **Active Recall** (quizzing yourself on material) and **Spaced Repetition** (reviewing at increasing intervals) to learn faster and retain information permanently.
+*   **Frustration Management:** Success in coding is a reflection of how one handles being stuck. It is a marathon, and learners must prioritize **sleep and self-care** to consolidate knowledge.
+
+---
+
+### **Key Takeaways**
+*   **Coding is Not Enough:** Learning the technical skill is the "easy" part; the hard part of getting a job is the **networking and interviewing**.
+*   **Consistency is Vital:** You are better off doing **20 minutes of work every single day** than trying to cram for five hours once a week.
+*   **Full-Stack Strategy:** The goal is to become a "Full Stack" developer, meaning you can handle both the **front-end** (client-side) and **back-end** (server-side) of an application.
+*   **Security Matters:** Understand that **HTTPS** is the secure version of the transfer protocol that encrypts data between the client and server.
+*   **Community Support:** Having a community to help you get "unstuck" is the primary factor that prevents learners from quitting.
+
+---
+
 #### Class 02 | More about HTML
 #### Class 03 | CSS
 #### Class 04 | CSS layout
