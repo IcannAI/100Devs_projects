@@ -1,13 +1,9 @@
-# 100Devs_projects
-
-### Software Engineering Bootcamp
+# 100Devs_projects Software Engineering Bootcamp
 #### Class 01 | HTML basics
 The following notes and summary are drawn from the transcript of the first class of the **#100Devs software engineering bootcamp**, which focuses on transitioning into a career in web development through structured learning and community support.
 
 ### **Summary**
 The instructor emphasizes that while software engineering is a high-paying and happy career that does not require a degree, it is exceptionally difficult and requires a specific mindset to survive the **"Trough of Sorrow"**—the period where many learners give up. The class covers the basic mechanics of the internet (request/response cycles), the essential roles of HTML, CSS, and JavaScript, and scientifically proven study methods like **Active Recall** and **Spaced Repetition**.
-
----
 
 ### **The Web Development Workflow**
 The sources define the technical and professional workflow for an aspiring developer as follows:
@@ -22,8 +18,6 @@ The sources define the technical and professional workflow for an aspiring devel
     *   **Phase 2: Build** a large-scale passion project and freelance for real clients.
     *   **Phase 3: Network** aggressively while transitioning into "interview mode".
 
----
-
 ### **Essential Tools**
 *   **Text Editors:** Recommended tools for writing code include **Atom**, **VS Code**, or **Sublime Text**.
 *   **Browsers:** **Chrome** or **Firefox** are the preferred environments for testing and rendering web pages.
@@ -32,8 +26,6 @@ The sources define the technical and professional workflow for an aspiring devel
     *   **Anki:** A flashcard app that uses an algorithm to automate **Spaced Repetition** and flatten the "forgetting curve".
     *   **Coursera:** Students are assigned the "Learning How to Learn" course to master study techniques.
 *   **Version Control:** **GitHub** is the future destination for storing code and submitting homework via pull requests.
-
----
 
 ### **Guidelines**
 *   **Separation of Concerns:** This is the "Golden Rule." Content must stay in HTML, styling in CSS, and behavior in JavaScript. Never mix them.
