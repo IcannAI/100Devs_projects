@@ -233,7 +233,7 @@ This session transitions into the styling layer of web development, introducing 
 #### Class 63 | Getting a job as a software engineer
 #### Class 64 | Fullstack Web Dev
 
-
+---
 
 ### Web Dev Bootcamp
 #### Class 1  | Web Dev
@@ -253,6 +253,7 @@ This session transitions into the styling layer of web development, introducing 
 
 
 ---
-Ref:
+
+Reference:
 100devs with Leon Noel
 
