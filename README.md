@@ -70,25 +70,16 @@ Purpose: This allows the browser to read Tailwind utility classes (like flex, te
 Instead of writing CSS from scratch, the instructor used pre-made "components" available on Tailwind's website or similar free resources.
 
 The Hero Section:
-
-
-Action: He located a "Hero" component (typically the large introductory section at the top of a webpage), copied the raw HTML code, and pasted it directly into the <body> tag.
-
-Breakdown: This code consists of standard HTML elements (<div>, <h1>, <button>) heavily styled with Tailwind utility classes.
+- Action: He located a "Hero" component (typically the large introductory section at the top of a webpage), copied the raw HTML code, and pasted it directly into the <body> tag.
+- Breakdown: This code consists of standard HTML elements (<div>, <h1>, <button>) heavily styled with Tailwind utility classes.
 
 The Feature Section:
+- Action: He looked for a "feature section" (specifically one with a "join" theme), copied the HTML, and pasted it below the Hero section.
+- Result: The page instantly rendered a fully responsive layout with navigation, headings, and buttons without writing a single line of custom CSS.
 
-
-Action: He looked for a "feature section" (specifically one with a "join" theme), copied the HTML, and pasted it below the Hero section.
-
-
-Result: The page instantly rendered a fully responsive layout with navigation, headings, and buttons without writing a single line of custom CSS.
-
-3. DaisyUI Setup
-DaisyUI was introduced as a tool that sits "on top" of Tailwind to provide higher-level components (like pre-styled buttons and footers) rather than just low-level utility classes.
-
-
-The Action: The instructor grabbed the CDN link for DaisyUI and added it to the <head> of the document. He initially pasted it inside the wrong script tag but corrected it by placing it as a separate link/script.
+### 3. DaisyUI Setup
+- DaisyUI was introduced as a tool that sits "on top" of Tailwind to provide higher-level components (like pre-styled buttons and footers) rather than just low-level utility classes.
+- The Action: The instructor grabbed the CDN link for DaisyUI and added it to the <head> of the document. He initially pasted it inside the wrong script tag but corrected it by placing it as a separate link/script.
 
 ### The Code Structure:
 
