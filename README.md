@@ -66,6 +66,7 @@ HTML
 Purpose: This allows the browser to read Tailwind utility classes (like flex, text-center, bg-blue-500) and style them instantly without setting up a development environment.
 
 ### 2. Tailwind Components (Hero & Feature Sections)
+
 Instead of writing CSS from scratch, the instructor used pre-made "components" available on Tailwind's website or similar free resources.
 
 The Hero Section:
@@ -92,10 +93,10 @@ The Action: The instructor grabbed the CDN link for DaisyUI and added it to the 
 ### The Code Structure:
 
 HTML
-```<head>
+<head>
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://cdn.jsdelivr.net/npm/daisyui@latest/dist/full.css" rel="stylesheet" type="text/css" />
-</head>```
+</head>
 
 4. DaisyUI Component (Footer)
 The instructor used DaisyUI specifically to create a footer, highlighting how it simplifies the code compared to raw Tailwind.
@@ -108,7 +109,7 @@ Breakdown: Unlike the Tailwind examples which might use 10+ classes to style a s
 
 Result: Upon refreshing the browser, a fully styled, dark-themed footer appeared at the bottom of the page.
 
-### Summary of the "MVP Stack" Workflow
+Summary of the "MVP Stack" Workflow
 The specific workflow demonstrated was:
 
 
@@ -123,7 +124,8 @@ Copy-Paste: Copy the HTML block provided and paste it into your index.html.
 
 Run: Open the file in a browser to see a professional-looking site immediately.
 
-### Key Takeaway: The instructor emphasized that for an MVP, you should not focus on how it looks or writing custom styles. Instead, "grab some components... and you're done".
+### Key Takeaway: 
+The instructor emphasized that for an MVP, you should not focus on how it looks or writing custom styles. Instead, "grab some components... and you're done".
 
 
 
