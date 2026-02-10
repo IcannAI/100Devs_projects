@@ -167,3 +167,8 @@ This session transitions into the styling layer of web development, introducing 
 #### Class 12 | JS
 #### Class 13 | JS arrays
 #### Class 14 | JS objects
+
+
+---
+Ref:
+100devs with Leon [https://www.youtube.com/@learnwithleon/videos]
