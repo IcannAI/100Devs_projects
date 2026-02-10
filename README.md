@@ -1,4 +1,134 @@
 # 100Devs_projects Software Engineering Bootcamp
+
+## MVP Development
+### Summary
+This session focuses on the final push to complete the Minimum Viable Product (MVP) for the 100-hour capstone project, a critical portfolio piece for the job hunt. The instructor emphasizes prioritizing core functionality over complex design by using tools like Tailwind CSS and DaisyUI to speed up development. The session also transitions into "Hunttober," outlining the upcoming curriculum (React, Data Structures, Algorithms) and stressing the importance of community networking, consistent public building, and leveraging the support of the "100Devs" community to secure employment.
+
+Note 1: MVP Development & Strategy
+This section outlines the technical approach to finishing the capstone project efficiently.
+
+### Workflow
+Scope the MVP: Distill your 100-hour project idea into its simplest version that still conveys the core functionality.
+
+Extend Existing Code: Use the "Binary Upload Boom" project as a foundation and modify it to fit your specific idea (e.g., changing it from social media to a recipe app).
+
+Prioritize Function over Design: Do not stress about writing custom CSS or perfect copy initially. Focus on getting the core logic working first.
+
+Use Templates: Look at design templates (e.g., ThemeForest, Dribbble) for inspiration on layout so you don't waste cycles designing from scratch.
+
+Submission: The MVP is due by the start of the next class (Tuesday), giving a 24-hour buffer to finalize.
+
+### Tools
+Tailwind CSS & DaisyUI: Recommended for rapid styling. Tailwind provides utility classes, while DaisyUI offers free, open-source pre-made components (like navbars and footers) that speed up development.
+
+Bootstrap: An alternative to Tailwind for quickly making a site look decent without custom styling.
+
+Heroku: Currently used for hosting, though the instructor notes a need to switch providers soon due to pricing changes.
+
+Repl.it / CodePen: Useful for quickly testing code snippets or components.
+
+EJS: The templating engine used in the current tech stack, which works well with Tailwind/Bootstrap classes.
+
+### Guidelines
+"Quick and Dirty": The MVP should be a rough draft. Refinement and "making it beautiful" come during the remaining 100 hours of development.
+
+Don't Build Alone: Utilize community platforms like Remo (tables for co-working) and Discord (voice channels) to work alongside others and avoid isolation.
+
+GitHub Repositories: Submitting a GitHub link is sufficient for the MVP; live hosting is a bonus but not strictly required yet.
+
+## Note 2: Job Hunt & Community
+This section covers the mindset and non-technical strategies required for the upcoming job search ("Hunttober").
+
+### Key Takeaways
+Community is leverage: Engaging with the community is a "cheat code." Alumni have secured jobs simply by networking internally or helping others, without even applying.
+
+Build in Public: Sharing your progress on platforms like LinkedIn and Twitter is non-negotiable. It increases visibility and can lead to recruiters reaching out directly.
+
+Documentation is a Win: Documenting your learning journey and creating guides for new hires is an "easy win" when starting a new job, establishing you as a valuable team member early on.
+
+Trust the Process: Success stories range from high school dropouts with employment gaps to those recovering from illness. Consistency and following the program (networking, Anki, daily coding) yield results.
+
+The "Celebrations" Channel: Use this Discord channel as a data source. Read the detailed threads from hired students to understand the current market, interview questions, and successful strategies.
+
+### 1. Tailwind CSS Setup
+To avoid complex build steps (like installing via npm) for the MVP, the instructor utilized a "CDN" (Content Delivery Network) approach.
+
+
+The Action: He grabbed a script tag from the Tailwind documentation and placed it inside the <head> of his HTML document.
+
+The Code Structure:
+
+HTML
+<head>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+Purpose: This allows the browser to read Tailwind utility classes (like flex, text-center, bg-blue-500) and style them instantly without setting up a development environment.
+
+### 2. Tailwind Components (Hero & Feature Sections)
+Instead of writing CSS from scratch, the instructor used pre-made "components" available on Tailwind's website or similar free resources.
+
+The Hero Section:
+
+
+Action: He located a "Hero" component (typically the large introductory section at the top of a webpage), copied the raw HTML code, and pasted it directly into the <body> tag.
+
+Breakdown: This code consists of standard HTML elements (<div>, <h1>, <button>) heavily styled with Tailwind utility classes.
+
+The Feature Section:
+
+
+Action: He looked for a "feature section" (specifically one with a "join" theme), copied the HTML, and pasted it below the Hero section.
+
+
+Result: The page instantly rendered a fully responsive layout with navigation, headings, and buttons without writing a single line of custom CSS.
+
+3. DaisyUI Setup
+DaisyUI was introduced as a tool that sits "on top" of Tailwind to provide higher-level components (like pre-styled buttons and footers) rather than just low-level utility classes.
+
+
+The Action: The instructor grabbed the CDN link for DaisyUI and added it to the <head> of the document. He initially pasted it inside the wrong script tag but corrected it by placing it as a separate link/script.
+
+### The Code Structure:
+
+HTML
+```<head>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://cdn.jsdelivr.net/npm/daisyui@latest/dist/full.css" rel="stylesheet" type="text/css" />
+</head>```
+
+4. DaisyUI Component (Footer)
+The instructor used DaisyUI specifically to create a footer, highlighting how it simplifies the code compared to raw Tailwind.
+
+
+The Action: He selected a "Footer" component from the DaisyUI documentation, copied the HTML, and pasted it at the bottom of his HTML body.
+
+Breakdown: Unlike the Tailwind examples which might use 10+ classes to style a single element, DaisyUI often uses semantic component classes (e.g., footer, btn, card).
+
+
+Result: Upon refreshing the browser, a fully styled, dark-themed footer appeared at the bottom of the page.
+
+### Summary of the "MVP Stack" Workflow
+The specific workflow demonstrated was:
+
+
+Setup: Drop CDN scripts for Tailwind and DaisyUI into the <head>.
+
+
+Browse: Go to documentation sites (Tailwind UI or DaisyUI) and find visual components like "Hero," "Features," or "Footer".
+
+
+Copy-Paste: Copy the HTML block provided and paste it into your index.html.
+
+
+Run: Open the file in a browser to see a professional-looking site immediately.
+
+### Key Takeaway: The instructor emphasized that for an MVP, you should not focus on how it looks or writing custom styles. Instead, "grab some components... and you're done".
+
+
+
+---
+
 ## Class 01 | HTML basics
 The following notes and summary are drawn from the transcript of the first class of the **#100Devs software engineering bootcamp**, which focuses on transitioning into a career in web development through structured learning and community support.
 
@@ -171,4 +301,5 @@ This session transitions into the styling layer of web development, introducing 
 
 ---
 Ref:
-100devs with Leon [https://www.youtube.com/@learnwithleon/videos]
+100devs with Leon Noel
+
