@@ -66,9 +66,28 @@ This session focuses on the structural layer of the web, emphasizing the relatio
 - Understand the client-server model as the fundamental communication path of the web.
 
 ---
-#### Class 03 | CSS
+## Class 03 | CSS
 
+This session transitions into the styling layer of web development, introducing CSS syntax and advanced learning strategies. 
 
+### Workflow:
+- Mastery-Based Learning: Do not move on to a new topic until the current one is fully mastered. 
+- Debugging: When CSS breaks, check for missing semicolons, colons between properties/values, or unclosed curly braces. 
+- Project Structure: Organize files clearly, such as keeping CSS files in a dedicated folder relative to the HTML file. 
+
+### Tools:
+- CSS: The technology used for coloring, styling, and making websites look good. 
+- Atom Editor: A text editor used for writing and managing code files. 
+- Discord: Used for community support and accessing learning materials. 
+
+### Guidelines:
+- Floats vs. Modern Layouts: Learn "floats" to understand legacy codebases, but prioritize Flexbox and Grid for modern development. 
+- Specificity & !important: Use the !important tag only as a last resort in emergencies (e.g., during a client meeting) and fix the underlying specificity issue afterward. 
+- Research First: Exhaustive research is expected before asking for help in community channels. 
+
+### Key Takeaways:
+- CSS follows a cascading nature; errors in one line can cause all subsequent styles to break.
+- Deep learning and honesty with the material (e.g., through reading Shay Howe) are more effective than rushing.
 
 ---
 
