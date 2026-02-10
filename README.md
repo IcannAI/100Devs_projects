@@ -1,5 +1,5 @@
 # 100Devs_projects Software Engineering Bootcamp
-#### Class 01 | HTML basics
+## Class 01 | HTML basics
 The following notes and summary are drawn from the transcript of the first class of the **#100Devs software engineering bootcamp**, which focuses on transitioning into a career in web development through structured learning and community support.
 
 ### **Summary**
@@ -33,8 +33,6 @@ The sources define the technical and professional workflow for an aspiring devel
 *   **Networking Strategy:** The sources state that **"clicking apply is like lighting your resume on fire."** Instead, students must network their way into positions through "coffee chats" and referrals.
 *   **Effective Study Habits:** Stop highlighting and rereading. Use **Active Recall** (quizzing yourself on material) and **Spaced Repetition** (reviewing at increasing intervals) to learn faster and retain information permanently.
 *   **Frustration Management:** Success in coding is a reflection of how one handles being stuck. It is a marathon, and learners must prioritize **sleep and self-care** to consolidate knowledge.
-
----
 
 ### **Key Takeaways**
 *   **Coding is Not Enough:** Learning the technical skill is the "easy" part; the hard part of getting a job is the **networking and interviewing**.
